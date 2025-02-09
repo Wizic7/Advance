@@ -4,23 +4,23 @@ A C++ Game
 
 ## Overview
 
-**Project Title**:
+**Advance**:
 
-**Project Description**:
+**A game of thinking three moves ahead**:
 
-**Project Goals**:
+**Make a simple C++ project in raylib with graphics**:
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
+1. Install VS
+2. Run project
 3.
 
 Instructions for using the software:
 
-1. First step here
+1. Hit play on VS
 2.
 3.
 
@@ -28,7 +28,7 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
+* Latist Version of Visual Studio
 *
 *
 
@@ -36,14 +36,14 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [Raylib](https://www.raylib.com/cheatsheet/cheatsheet.html)
+* [Button Example](https://github.com/Omegapy/MyGUI/blob/main/MyGui/ButtonP.cpp)
+
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [Figure out how to get graphics working]
+* [Add gameplay]
+* [Make it fun]

@@ -24,14 +24,17 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-|Date      |Start Time|Category|Description                                 |Total Minutes|
-|----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|Date      |Start Time|Category|Description                                    |Total Minutes|
+|----------|----------|:------:|-----------------------------------------------|:-----------:|
+|  2/5/25  |   10:30  |   IM   | Set up the peoject and started making classes |      60     |
+|  2/5/25  |   5:30   |   IM   |             Set up header files               |      40     |
+|  2/4/25  |   12:45  |   MTG  |              Got Raylib setup                 |      90     |
+|  1/28/25 |   12:45  |   MTG  |       Finding input libraries                 |      90     |
+|  1/30/25 |   12:45  |   MTG  |      Figured out how to install Raylib        |      90     |
+|  2/6/25  |   12:45  |   MTG  |        More Setting up Environment stuff      |      90     |
+|  2/6/25  |   10:30  |   IM   |     Finally figured out how C++ classes work  |      90     |
+|  2/7/25  |   10:30  |   IM   |     Raylib Graphics study, it's complex       |      60     |
+|  2/8/25  |   10:30  |   IM   |Why will the graphics not work like they should|      60     |
 
 _Note: Add more rows as needed._
 
@@ -39,7 +42,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |            5:10          |
+|TP - Team Project              |           2:00           |
+|MTG - Class Meetings           |           6:00           |
+|**TOTAL**                      |           13:10          |
